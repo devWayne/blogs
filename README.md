@@ -15,3 +15,4 @@ blogs
 ## English
 
  - array-like-objects-in-javascript(https://shifteleven.com/articles/2007/06/28/array-like-objects-in-javascript/)
+ - JavaScript Design Patterns: Singleton(http://robdodson.me/blog/2012/08/08/javascript-design-patterns-singleton/)
