@@ -15,3 +15,6 @@ blogs
  - 审视co和展望ES7 (http://www.html-js.com/article/2424)
  - Replacing Express with Koa - an experimental REST API(http://tamas.io/replacing-express-with-koa/)
 
+##Web
+ 
+ - Web应用开发的七项原则 (http://lenciel.cn/2014/11/7-principles-of-rich-web-applications/)
